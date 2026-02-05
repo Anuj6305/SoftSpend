@@ -1,0 +1,7 @@
+
+   info - Statements in a for should be enclosed in a block - lib\controllers\expense_controller.dart:220:36 - curly_braces_in_flow_control_structures
+   info - Statements in a for should be enclosed in a block - lib\controllers\expense_controller.dart:228:36 - curly_braces_in_flow_control_structures
+   info - Statements in a for should be enclosed in a block - lib\controllers\expense_controller.dart:242:46 - curly_braces_in_flow_control_structures
+   info - Unnecessary use of string interpolation - lib\views\analytics_view.dart:71:30 - unnecessary_string_interpolations
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\views\dashboard_page.dart:138:33 - deprecated_member_use
+
